@@ -8,6 +8,6 @@ be uniquely identified. Additional students might be added that contain the same
 
 To be in second normal form, all attributes must be dependent on the key. Once the student's identification number is added, the remaining attributes are dependent on the student's indentity and the identification numner. This table is is 2nd NF. 
 
-To normalize this table in 3rd NF, 
+To normalize this table in 3rd NF, the form 
 
 
